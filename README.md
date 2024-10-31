@@ -1,11 +1,11 @@
-# 🎓 Estudante de Engenharia de Software | QA | Testes de Software
+# 🎓 Estudante de Engenharia de Software | Explorando Testes de Software
 
-Olá! Sou estudante de Engenharia de Software na UTFPR - DV, com um interesse especial na área de Qualidade de Software e testes automatizados. Atualmente, estou expandindo minhas habilidades em automação de testes utilizando ferramentas como Ruby, Capybara e HTTParty. Ao longo da minha jornada, já contribuí para a documentação de requisitos e modelagem de software em projetos reais, onde fui responsável por aprimorar e padronizar a comunicação entre as equipes.
+Oi! Sou estudante de Engenharia de Software na UTFPR - DV e tenho focado na área de Qualidade de Software, especialmente com testes automatizados. No momento, estou me aprofundando em automação com Ruby, Capybara e HTTParty. Já trabalhei com documentação e modelagem de software, ajudando a deixar a comunicação entre as equipes mais prática e fluida.
 
-## 💡 O que você encontrará aqui?
-- Repositórios de automação de testes aplicados a diferentes cenários (API e frontend).
-- Projetos que exploram metodologias ágeis e melhores práticas de documentação.
-- Exemplos de scripts e testes automatizados para garantir a qualidade e a confiabilidade de sistemas.
+## 💡 O que você vai encontrar aqui?
+- Repositórios de automação de testes pra diferentes cenários (API e frontend).
+- Projetos com metodologias ágeis e boas práticas de documentação.
+- Scripts e testes automatizados pra garantir qualidade e confiabilidade nos sistemas.
 
 ## 🔍 Minhas metas
-Continuar me especializando em QA e contribuir para projetos que valorizam a qualidade do código e a experiência do usuário. Vamos juntos nessa jornada rumo a entregas mais ágeis e seguras!
+Seguir firme no caminho de QA e contribuir pra projetos que valorizam a qualidade de código e a experiência de quem usa. Bora nessa jornada!
