@@ -8,4 +8,5 @@ Oi! Sou estudante de Engenharia de Software na UTFPR - DV e tenho focado na áre
 - Scripts e testes automatizados pra garantir qualidade e confiabilidade nos sistemas.
 
 ## 🔍 Minhas metas
-Seguir firme no caminho de QA e contribuir pra projetos que valorizam a qualidade de código e a experiência de quem usa. Bora nessa jornada!
+-Seguir firme no caminho de QA e contribuir pra projetos que valorizam a qualidade de código e a experiência de quem usa. Bora nessa jornada!
+
