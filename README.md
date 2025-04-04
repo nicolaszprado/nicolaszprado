@@ -13,7 +13,7 @@ Tenho experiência com **Java + Spring Boot**, mas também estou sempre exploran
 - **Backend:** Java, Spring Boot
 - **Frontend:** React 
 - **Banco de Dados:** PostgreSQL, MySQL, MongoDB
-- **Outros:** JWT, Docker, Git, GitHub Actions, REST APIs
+- **Outros:** JWT, Docker, Git, REST APIs
 
 ---
 
