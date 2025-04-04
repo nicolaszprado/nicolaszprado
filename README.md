@@ -1,6 +1,6 @@
 # 👨‍💻 Nicolas Prado
 
-🎓 Estudante de Engenharia de Software | ⚙️ Backend Developer | 💻 Java • Spring Boot • React
+🎓 Estudante de Engenharia de Software | ⚙️ Fullstack Developer | 💻 Java • Spring Boot • React
 
 Oi! Eu sou o Nicolas, estudante de Engenharia de Software na UTFPR - DV. Atualmente, meu foco está em **desenvolvimento de software com ênfase no backend**, mas sem me prender a uma única linguagem ou tecnologia. Acredito que o mais importante é **resolver problemas com código limpo, testável e escalável**.
 
